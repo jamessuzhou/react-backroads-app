@@ -190,8 +190,7 @@ Hero
   max-width: 35rem;
   margin-left: auto;
   margin-right: auto;
-  /* color: var(--clr-white); */
-  color: red;
+  color: var(--clr-white);
   letter-spacing: var(--spacing);
 }
 .hero-btn {
